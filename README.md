@@ -23,15 +23,11 @@ Here are some ideas to get you started:
 
 ## <p style="text-align: left;"> **About Me** </p>
 
----
-
 I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer with a Chemical & Biological Engineering background. I love collaborating cross-functionally to deliver innovative and engaging solutions across brand design, content creation, and web development.
 
 <br>
 
 ## <p style="text-align: left;"> **Skills** </p>
-
----
 
 ### **Programming Languages & Technologies**
 
@@ -89,8 +85,6 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 
 ## <p style="text-align: left;"> **GitHub Stats** </p>
 
----
-
 <p align="center" style="padding-top: 10px;">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jsam07&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" />
 </p>
@@ -105,28 +99,29 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 
 ## <p style="text-align: left;"> **Get In Touch** </p>
 
----
-
 If you're interested in working together or have any feedback, I'd love to hear from you!
 
 <p align="center" style="padding-top: 10px;">
-    <a href="mailto:jsam07@hotmail.com?subject=Mail via GitHub Profile">
-        <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://github.com/jsam07">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+    </a>
+    <a href="mailto:jsam07@hotmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
+        <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/jsam07/" style="margin-left: 20px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/jsam07" style="margin-left: 20px;">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </p>
 
 ---
 
-<p align="center" style="padding-top: 10px;">
+<!-- <p align="center" style="padding-top: 10px;">
     <a href="https://github.com/jsam07">
         <img height="24" width="24" alt="Portfolio" src="images/iconmonstr-globe-5.svg"  />
-    </a>    
+    </a>
     <a href="mailto:jsam07@hotmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
         <img height="24" width="24" alt="Email" src="images/iconmonstr-email-2.svg" />
     </a>
@@ -137,4 +132,4 @@ If you're interested in working together or have any feedback, I'd love to hear 
         <img height="24" width="24" alt="LinkedIn" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />
     </a>
 
-</p>
+</p> -->

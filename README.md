@@ -1,4 +1,4 @@
-# <img src="images/hi.gif" width="25px"> Hi there, my name is **Jamie Samuel 🇬🇩 🇨🇦**.
+# <img src="images/hi.gif" width="25px"> Hi there, my name is **Jamie Samuel**.
 
 <p align="center">
     <img style="border-radius: 15px;" src="images/hero.svg" width="100%"/>

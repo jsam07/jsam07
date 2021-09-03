@@ -1,3 +1,4 @@
+![](https://github.com/jsam07/jsam07/blob/main/images/hero.svg)
 ### Hi there 👋
 
 <!--

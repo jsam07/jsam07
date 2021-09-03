@@ -46,10 +46,11 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 ![Gatsby](https://img.shields.io/badge/-Gatsby-050B1E?logoColor=663399&logo=Gatsby)
 ![Node.js](https://img.shields.io/badge/-Node.js-050B1E?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-050B1E?&logo=express)
-![Jest](https://img.shields.io/badge/-jest-050B1E?&logo=jest)
+![Jest](https://img.shields.io/badge/-Jest-050B1E?&logo=jest)
 ![Mocha](https://img.shields.io/badge/-Mocha-050B1E?&logo=mocha)
 ![jQuery](https://img.shields.io/badge/-jQuery-050B1E?&logo=jquery)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-050B1E?&logo=tailwind-css)
+![Unity](https://img.shields.io/badge/-Unity-050B1E?&logo=unity)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050B1E?&logo=bootstrap)
 ![Bulma](https://img.shields.io/badge/-Bulma-050B1E?&logo=bulma)
 
@@ -63,6 +64,9 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 
 ![Figma](https://img.shields.io/badge/-Figma-050B1E?&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-050B1E?&logo=adobe-xd)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-050B1E?&logo=adobe-illustrator)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-050B1E?&logo=adobe-photoshop)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-050B1E?&logo=adobe-indesign)
 
 ### **Tools & Platforms**
 
@@ -73,6 +77,7 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 ![Heroku](https://img.shields.io/badge/-Heroku-050B1E?&logo=heroku)
 ![Babel](https://img.shields.io/badge/-Babel-050B1E?&logo=babel)
 ![ESLint](https://img.shields.io/badge/-ESLint-050B1E?&logo=ESLint)
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-050B1E?&logo=LabVIEW)
 
 ### **Project Management**
 

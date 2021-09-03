@@ -1,6 +1,6 @@
 # <img src="images/hi.gif" width="25px"> Hi there, my name is **Jamie Samuel**.
 
-<p style="text-align: center;">
+<p align="center">
     <img style="border-radius: 15px;" src="images/hero.svg" width="90%"/>
 </p>
 

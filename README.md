@@ -1,4 +1,4 @@
-# <img src="images/hi.gif" width="25px"> Hi there, my name is **Jamie Samuel**.
+# <img src="images/hi.gif" width="25px"> Hi there, my name is **Jamie Samuel 🇬🇩 🇨🇦**.
 
 <p align="center">
     <img style="border-radius: 15px;" src="images/hero.svg" width="100%"/>
@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <br>
 
-## <p> **About Me** </p>
+## <p> **About Me 💁** </p>
 
 I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer with a Chemical & Biological Engineering background. I love collaborating cross-functionally to deliver innovative and engaging solutions across brand design, content creation, and web development.
 
 <br>
 
-## <p> **Skills** </p>
+## <p> **Skills 🛠️** </p>
 
 ### **Programming Languages & Technologies**
 
@@ -83,7 +83,7 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 
 <br>
 
-## <p> **GitHub Stats** </p>
+## <p> **GitHub Stats 📊** </p>
 
 <p align="center" style="padding-top: 10px;">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jsam07&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" />
@@ -99,7 +99,7 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 
 <br>
 
-## <p> **Get In Touch** </p>
+## <p> **Get In Touch 💬** </p>
 
 If you're interested in working together or have any feedback, I'd love to hear from you!
 

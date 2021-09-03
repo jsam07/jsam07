@@ -1,4 +1,4 @@
-<img src="https://github.com/jsam07/jsam07/blob/main/images/hero.svg" width="1650"/>
+<img src="https://github.com/jsam07/jsam07/blob/main/images/hero.svg" width="1000"/>
 ### Hi there 👋
 
 <!--

@@ -1,4 +1,4 @@
-![](https://github.com/jsam07/jsam07/blob/main/images/hero.svg)
+<img src="https://github.com/jsam07/jsam07/blob/main/images/hero.svg" width="1650"/>
 ### Hi there 👋
 
 <!--

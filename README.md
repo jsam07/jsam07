@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <p> **About Me 💁** </p>
+## <p> **About Me 🧔** </p>
 
 I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer with a Chemical & Biological Engineering background. I love collaborating cross-functionally to deliver innovative and engaging solutions across brand design, content creation, and web development.
 

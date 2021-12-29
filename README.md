@@ -43,6 +43,7 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 ![React](https://img.shields.io/badge/-React-050B1E?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-050B1E?&logo=Vue.js)
 ![Next](https://img.shields.io/badge/-Next.js-050B1E?&logo=next.js)
+![Docker](https://img.shields.io/badge/-Docker-050B1E?&logo=docker)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-050B1E?logoColor=663399&logo=Gatsby)
 ![Node.js](https://img.shields.io/badge/-Node.js-050B1E?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-050B1E?&logo=express)
@@ -109,7 +110,7 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 If you're interested in working together or have any feedback, I'd love to hear from you!
 
 <p align="center" style="padding-top: 10px;">
-    <a href="https://github.com/jsam07">
+    <a href="https://www.jamiesamuel.com/">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
     </a>
     <a href="mailto:jsam07@hotmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">

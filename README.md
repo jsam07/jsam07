@@ -32,20 +32,23 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 ### **Programming Languages & Technologies**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050B1E?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-050B1E?&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-050B1E?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-050B1E?&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-050B1E?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-050B1E?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-050B1E?&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-050B1E?&logo=Rust)
 ![R](https://img.shields.io/badge/-R-050B1E?&logo=R)
+
 
 ### **Libraries & Frameworks**
 
 ![React](https://img.shields.io/badge/-React-050B1E?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-050B1E?&logo=Vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-050B1E?&logo=node.js)
 ![Next](https://img.shields.io/badge/-Next.js-050B1E?&logo=next.js)
 ![Docker](https://img.shields.io/badge/-Docker-050B1E?&logo=docker)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-050B1E?logoColor=663399&logo=Gatsby)
-![Node.js](https://img.shields.io/badge/-Node.js-050B1E?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-050B1E?&logo=express)
 ![Jest](https://img.shields.io/badge/-Jest-050B1E?&logo=jest)
 ![Mocha](https://img.shields.io/badge/-Mocha-050B1E?&logo=mocha)

@@ -59,7 +59,7 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050B1E?&logo=bootstrap)
 ![Bulma](https://img.shields.io/badge/-Bulma-050B1E?&logo=bulma)
 ![Asp .NET](https://img.shields.io/badge/-ASP_.NET-050B1E?&logo=.net)
-![Laravel](https://img.shields.io/badge/-laravel-050B1E?&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-050B1E?&logo=laravel)
  
 ### **Databases & ORMs**
 

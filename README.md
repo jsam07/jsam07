@@ -36,6 +36,7 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 ![HTML](https://img.shields.io/badge/-HTML-050B1E?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-050B1E?&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-050B1E?&logo=Python)
+![C#](https://img.shields.io/badge/-csharp-050B1E?&logo=csharp)
 ![Go](https://img.shields.io/badge/-Go-050B1E?&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-050B1E?&logo=Rust)
 ![R](https://img.shields.io/badge/-R-050B1E?&logo=R)
@@ -47,17 +48,19 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 ![Vue](https://img.shields.io/badge/-Vue-050B1E?&logo=Vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-050B1E?&logo=node.js)
 ![Next](https://img.shields.io/badge/-Next.js-050B1E?&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-050B1E?&logo=tailwind-css)
 ![Docker](https://img.shields.io/badge/-Docker-050B1E?&logo=docker)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-050B1E?logoColor=663399&logo=Gatsby)
 ![Express.js](https://img.shields.io/badge/-Express-050B1E?&logo=express)
 ![Jest](https://img.shields.io/badge/-Jest-050B1E?&logo=jest)
 ![Mocha](https://img.shields.io/badge/-Mocha-050B1E?&logo=mocha)
 ![jQuery](https://img.shields.io/badge/-jQuery-050B1E?&logo=jquery)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-050B1E?&logo=tailwind-css)
 ![Unity](https://img.shields.io/badge/-Unity-050B1E?&logo=unity)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050B1E?&logo=bootstrap)
 ![Bulma](https://img.shields.io/badge/-Bulma-050B1E?&logo=bulma)
-
+![Asp .NET](https://img.shields.io/badge/-ASP_.NET-050B1E?&logo=.net)
+![Laravel](https://img.shields.io/badge/-laravel-050B1E?&logo=laravel)
+ 
 ### **Databases & ORMs**
 
 ![MySQL](https://img.shields.io/badge/-SQL-050B1E?&logo=MySQL)

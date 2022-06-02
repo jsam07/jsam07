@@ -26,6 +26,18 @@ Here are some ideas to get you started:
 I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer with a Chemical & Biological Engineering background. I love collaborating cross-functionally to deliver innovative and engaging solutions across brand design, content creation, and web development.
 
 <br>
+<p align="center" style="padding-top: 10px;">
+    <a href="https://www.jamiesamuel.com/">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
+    </a>
+    <a href="https://www.linkedin.com/in/jsam07/" style="margin-left: 20px;">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" />
+    </a>
+  <a href="mailto:jsam07@hotmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
+        <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
+    </a>
+</p>
+
 
 ## <p> **Skills 🛠️** </p>
 
@@ -119,13 +131,10 @@ If you're interested in working together or have any feedback, I'd love to hear 
     <a href="https://www.jamiesamuel.com/">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
     </a>
-    <a href="mailto:jsam07@hotmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
-        <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
-    </a>
     <a href="https://www.linkedin.com/in/jsam07/" style="margin-left: 20px;">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" />
     </a>
-    <a href="https://github.com/jsam07" style="margin-left: 20px;">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener noreferrer" />
+  <a href="mailto:jsam07@hotmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
+        <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
     </a>
 </p>

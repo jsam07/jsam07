@@ -107,11 +107,11 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 
 <br>
 
-## <p> **GitHub Stats 📊** </p>
+<!-- ## <p> **GitHub Stats 📊** </p> -->
 
-<p align="center" style="padding-top: 10px;">
+<!-- <p align="center" style="padding-top: 10px;">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jsam07&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" />
-</p>
+</p> -->
 
 <!-- <p align="center" style="padding-top: 10px;">
     <img height="137px" src="https://github-readme-stats-sigma-five.vercel/api/top-langs/?username=jsam07&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=9&theme=tokyonight" />

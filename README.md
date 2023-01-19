@@ -114,11 +114,11 @@ I am a self-driven, charismatic, and detail-oriented Full-Stack Web Developer wi
 </p>
 
 <p align="center" style="padding-top: 10px;">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsam07&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=9&theme=tokyonight" />
+    <img height="137px" src="https://github-readme-stats-sigma-five.vercel/api/top-langs/?username=jsam07&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=9&theme=tokyonight" />
 </p>
 
 <p align="center" style="padding-top: 10px;">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=jsam07&theme=tokyonight&hide_border=true" />
+    <img height="137px" src="https://github-readme-stats-sigma-five.vercel?user=jsam07&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
